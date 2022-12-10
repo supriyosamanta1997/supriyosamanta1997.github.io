@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.81295bf8.css",
+    "main.js": "/static/js/main.71cd8843.js",
+    "static/media/mintra.png": "/static/media/mintra.0be320c391d26120ac69.png",
+    "static/media/Profile.png": "/static/media/Profile.c2caaab788563326f732.png",
+    "static/media/millap.png": "/static/media/millap.d426944167b56a387d45.png",
+    "static/media/engagebay.png": "/static/media/engagebay.9c9294e1ba807e9dccad.png",
+    "static/media/loseit.png": "/static/media/loseit.e17d64d914e59c4ac8b3.png",
+    "static/media/Postman.png": "/static/media/Postman.549406b2e827e5492ac7.png",
+    "static/media/Cha.png": "/static/media/Cha.43b5b7977014e982e943.png",
+    "static/media/react.png": "/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/node.png": "/static/media/node.952a9ea986dcfa5229ad.png",
+    "static/media/github.png": "/static/media/github.3b9e32903aa89111875d.png",
+    "static/media/html.png": "/static/media/html.2ba4fabc69a89a8f71e6.png",
+    "static/media/tailwind.png": "/static/media/tailwind.e47ac876b8d4d0bba47a.png",
+    "static/media/css.png": "/static/media/css.69a82c2d9e45c933a9cb.png",
+    "static/media/mongoDb.png": "/static/media/mongoDb.0cbba5fcc8c867a54867.png",
+    "static/media/Express.png": "/static/media/Express.9b344d7469dbbdc76754.png",
+    "static/media/javascript.png": "/static/media/javascript.1ccd6ef9bb1f9c84ef00.png",
+    "index.html": "/index.html",
+    "main.81295bf8.css.map": "/static/css/main.81295bf8.css.map",
+    "main.71cd8843.js.map": "/static/js/main.71cd8843.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.81295bf8.css",
+    "static/js/main.71cd8843.js"
+  ]
+}
